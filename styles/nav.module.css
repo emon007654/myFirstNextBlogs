@@ -1,0 +1,20 @@
+.nav {
+  display: flex;
+  /* min-height: 200px; */
+  justify-content: center;
+  /* border-bottom: 2px solid black; */
+}
+
+.nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+.nav ul li {
+  font-size: 30px;
+  font-weight: bold;
+  padding: 20px 14px;
+}
+.nav ul li a {
+  color: #0070f3;
+}

@@ -1,0 +1,23 @@
+.mainContainer {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  /* border: 2px solid red; */
+}
+.mainContainer h1 {
+  color: #4e555e;
+}
+
+.mainImg {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.blogsPreview h1 {
+  display: flex;
+  justify-content: center;
+}
+.data {
+  text-align: center;
+}
